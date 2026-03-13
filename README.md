@@ -8,7 +8,7 @@
 
 ### 🧠 What I’m Currently Working On
 
-- 💼 Developing enterprise banking web platforms at **[Babel Group](https://babelgroup.com/)**, focusing on **Spring Boot (Hexagonal Architecture)** and **React/Next.js**.
+- 💼 Developing enterprise banking web platforms at **[Babel Group](https://babelgroup.com/)**, focusing on **Spring Boot (Hexagonal Architecture)** and **React**.
 - 🧱 Building my **personal interactive portfolio** with **React** and **Next.js**.
 - ☁️ Exploring **cloud deployments** on AWS, Google Cloud, and Vercel.
 
